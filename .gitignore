@@ -1,0 +1,14 @@
+# 环境
+.env
+venv/
+__pycache__/
+*.pyc
+
+# 日志
+logs/*.json
+logs/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
