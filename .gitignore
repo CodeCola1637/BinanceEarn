@@ -12,3 +12,5 @@ logs/*.csv
 .vscode/
 .idea/
 *.swp
+logs/
+*.pid
